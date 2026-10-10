@@ -1,0 +1,10 @@
+# Build output and personal schedule data
+dist/*.exe
+dist/morning-reminders.txt
+dist/google-client-id.txt
+google-client-id.txt
+bin/
+obj/
+.vs/
+*.user
+*.suo
